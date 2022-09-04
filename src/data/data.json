@@ -1,0 +1,252 @@
+{
+  "cv": {
+    "personal": {
+      "date_of_birth": "18/01/1985",
+      "nationality": "Romanian",
+      "gender": "male",
+      "phone_number": "+4 07XX XXX XXX",
+      "portfolio": [
+        {
+          "url": "https://www.radergy.ro",
+          "name": "Radergy Shopping Website",
+          "details": "I've created my own shopping website from scratch.",
+          "technologies_used": [
+            "Python",
+            "Django REST Framework",
+            "PostgresSQL",
+            "Celery",
+            "Redis",
+            "Javascript",
+            "React (NEXT JS)"
+          ]
+        },
+        {
+          "url": "https://www.comparmed.com",
+          "name": "ComparMed.com - First Romanian Pharma Medication Search Engine",
+          "details": "I've created the first Romanian Pharma search engine that empowers customers to save money and time medication.",
+          "technologies_used": [
+            "Python",
+            "Elastic Search",
+            "PostgresSQL",
+            "Django REST Framework",
+            "Celery",
+            "Redis",
+            "Javascript",
+            "React (NEXT JS)"
+          ]
+        },
+        {
+          "url": "https://github.com/allexradu",
+          "name": "Github Profile Page",
+          "details": "Checkout my github portfolio!",
+          "technologies_used": [
+            "Python",
+            "Django REST Framework",
+            "Celery",
+            "Redis",
+            "Javascript",
+            "React (NEXT JS)"
+          ]
+        }
+      ],
+      "about_me": ": I am a man passionate about technology, I love new things, I love\nexperimenting with new technologies, researching on topics of interest. I am a\npersistent man who doesn't give up until exhausting all options. I have coding,\ntechnical and communication skills, but I am also a great seller. I have the\nability to speak using non-technical language to explain technical terms to nontechnical people. I have hobbies too, I enjoy biking, snowboarding and I LOVE\nlistening to music. "
+    },
+    "experience": [
+      {
+        "from_date": "05/05/2022",
+        "to_date": null,
+        "company": "DONTPAYFULL",
+        "position": "SENIOR MICRO-SERVICES SOFTWARE DEVELOPER",
+        "responsibilities": [
+          "Developing and maintaining an eCommerce Platform in Python Django",
+          "Developing and maintaining frontend in Django, Javascript",
+          "Developing microservices in Express JS",
+          "Working with Docker, Kubernetes",
+          "Working with Celery",
+          "Developing Scraping Bots",
+          "Working with node js",
+          "Working with Elastic Search"
+        ],
+        "stack": [
+          "Python",
+          "Django",
+          "MySQL",
+          "Elastic Search",
+          "Celery",
+          "PHP",
+          "Javascript",
+          "Redis",
+          "Kubernetes"
+        ]
+      },
+      {
+        "from_date": "16/03/2000",
+        "to_date": "04/05/2022",
+        "company": "Content Speed SRL",
+        "position": "ECOMMERCE SOFTWARE DEVELOPER",
+        "responsibilities": [
+          "Python Development",
+          "Node.JS Microservices",
+          "PHP Web Development and Testing",
+          "React Development",
+          "ERP API / Webservice Integrations",
+          "ERP Automation Robot Programming",
+          "Selenium Webscraping",
+          "Web Development Testing",
+          "Processing XML, JSON and XLSX files in Python",
+          "eCommerce Implementation",
+          "Consulting"
+        ],
+        "accomplishments": [
+          "In one weekend I've developed a Robotic Process Automation (RPA) software in Python that can be\nused by employees without software developing experience (from the Implementation Department)\nto integrate the Contentspeed Platform with ERP software that we don't have direction integration\n(i.e. Navision, Trendix, SAP). This software has an easy to use interface in Microsoft Excel that\nemployees can use to easily recreate the steps taken by a human to enter orders in the ERP software and export stocks and prices to be imported in the Contentspeed Platform.This software has halved\nthe implementation time of a RPA Integration.",
+          "I've developed DOWNIMG.GA a website that greatly eases the work of my colleagues in the\nimplementation department by allowing them to quickly batch download images using an excel\nimport file and that file will be ready to import products into our Contentspeed eCommerce\nPlatform. It also allows them to split Excel Files and match keys and values to rows and columns,\ngreatly reducing their time processing excel files. For this project I've used Python, Django, Celery,\nRedis, Docker on the backednd and Javascript, HTML, Bootstrap on the frontend.",
+          "I've developed my own eCommerce platform www.radergy.ro using Python Django Rest Framework\nand NextJS (a Reactive JS framework)",
+          "I've developed in MicroServ Filewatcher - https://github.com/allexradu/MicroServFileWatcher - It\nallows to automatically replicate common code changes across micro services.",
+          "I've developed a blog using Asynchronous Event Driven Micro Services Architecture - https://\ngithub.com/allexradu/NodeJS_Microservices_Blog"
+        ],
+        "stack": [
+          "Python",
+          "Django",
+          "MySQL",
+          "Celery",
+          "PHP",
+          "Javascript",
+          "Redis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "university": "\"Spiru Haret\" University",
+        "degree": "Degree in Computer Science",
+        "subjects": [
+          "Math",
+          "Computer Science",
+          "Logic",
+          "English",
+          "C++ Programming",
+          "Assembler Programming"
+        ],
+        "details": "Math and Computer Science Faculty from \"Spiru Haret\" University is fully accredited by the Romanian\nMinistry of Education."
+      }
+    ],
+    "languages": {
+      "details": "Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user",
+      "skills": [
+        {
+          "language": "English",
+          "understanding": {
+            "Listening": "C2",
+            "Reading": "C2"
+          },
+          "speaking": {
+            "spoken_production": "C2",
+            "spoken_interaction": "C2"
+          },
+          "writing": "C2"
+        },
+        {
+          "language": "French",
+          "understanding": {
+            "Listening": "A2",
+            "Reading": "A2"
+          },
+          "speaking": {
+            "spoken_production": "A2",
+            "spoken_interaction": "A2"
+          },
+          "writing": "A1"
+        },
+        {
+          "language": "Romanian",
+          "understanding": {
+            "Listening": "Native",
+            "Reading": "Native"
+          },
+          "speaking": {
+            "spoken_production": "Native",
+            "spoken_interaction": "Native"
+          },
+          "writing": "Native"
+        }
+      ]
+    },
+    "skills": {
+      "backend_developing": [
+        "Python",
+        "JavaScript",
+        "Nodejs - Backend",
+        "expressjs",
+        "Django",
+        "PHP",
+        "microservices",
+        "Celery",
+        "C#",
+        "JWT"
+      ],
+      "frontend_developing": [
+        "JavaScript",
+        "React JS",
+        "NextJS",
+        "State Machines - XSTATE",
+        "Redux",
+        "HTML",
+        "CSS",
+        "React Styled Components",
+        "JSON",
+        "XML"
+      ],
+      "mobile_development": [
+        "Flutter & Dart",
+        "React Native"
+      ],
+      "databases": [
+        "MySQL",
+        "PostgresSQL",
+        "Elastic Search",
+        "Redis"
+      ],
+      "devops": [
+        "git",
+        "docker",
+        "kubernetes"
+      ],
+      "testing_and_automation": [
+        "Web Scraping",
+        "PyAutoGUI",
+        "Macro Recorder",
+        "Selenium Webdriver",
+        "Robotic Process Automation",
+        "Web Testing",
+        "Selenium",
+        "GUI testing"
+      ],
+      "voip_and_networking": [
+        "Apache",
+        "NGINX",
+        "FreePBX",
+        "Asterisk PBX/VoIP system"
+      ],
+      "os": [
+        "Linux (Ubuntu, Mint)",
+        "Bug Fixing & Troubleshooting in Windows",
+        "Windows",
+        "MacOS"
+      ],
+      "organization": [
+        "Good organizational skills",
+        "Good project management skills",
+        "Strong sales, negotiation and presentation skills both written and verbal",
+        "Team player, independent operator and highly proactive",
+        "Good strategic vision, ability to turn complex strategies into practical and execution oriented plans",
+        "Strong quantitative/analytical skills and ability to effectively manage data"
+      ],
+      "communication": [
+        "good negotiation, communication and problem solving skills",
+        "the ability to take on stress",
+        "explaining technical terms using non-technical speech",
+        "the ability to listen and to make myself heard in high-stress situations"
+      ]
+    }
+  }
+}
